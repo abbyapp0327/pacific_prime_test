@@ -1,0 +1,22 @@
+#movie-details{
+    color: #fff;
+}
+
+#movie-details h2{
+    font-size: 3rem;
+    color: #ffff;
+}
+
+.poster-image{
+    margin: 0 auto;
+    display: flex;
+}
+
+.movie-details-title p{
+    color: #eeeeee8a;
+}
+.movie-details-extra-info p{
+    display: flex;
+    margin-bottom: 10px;
+}
+
