@@ -7,6 +7,7 @@ git clone --depth=1 https://github.com/abbyapp0327/pacific_prime_test.git
 
 ### 2. Go to directory pacific_prime_test and get all dependencies:
 cd pacific_prime_test/
+
 npm install  
 
 
